@@ -21,7 +21,7 @@ Three YOLO models were trained and evaluated, followed by hyperparameter tuning 
 
 ## 📂 Dataset
 
-**Source:** [Road Damage Dataset – Kaggle](https://www.kaggle.com/datasets/lorenzoarcioni/road-damage-dataset-potholes-cracks-and-manholes)
+**Source:** [Road Damage Dataset – Kaggle](https://www.kaggle.com/code/tareksabry/notebook04880d2fef)
 
 - Total Images: 2,009
 - Total Annotated Objects: 4,737
